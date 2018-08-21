@@ -22,11 +22,11 @@
     "eslint"
   ],
   "devDependencies": {
-    "eslint": "^4.1.1",
+    "eslint": "^5.4.0",
     "eslint-plugin-nebulas-contract": "^0.0.14"
   },
   "peerDependencies": {
-    "eslint": ">=4.1.1",
+    "eslint": ">=5.4.0",
     "eslint-plugin-nebulas-contract": ">=0.0.14"
   }
 }

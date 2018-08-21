@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-$ npm install --save-dev eslint eslint-config-nebulas-contract
+$ npm install --save-dev eslint eslint-plugin-nebulas-contract eslint-config-nebulas-contract
 ```
 
 
