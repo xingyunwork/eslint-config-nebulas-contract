@@ -23,10 +23,10 @@
   ],
   "devDependencies": {
     "eslint": "^5.4.0",
-    "eslint-plugin-nebulas-contract": "^0.0.14"
+    "eslint-plugin-nebulas-contract": "^0.0.15"
   },
   "peerDependencies": {
     "eslint": ">=5.4.0",
-    "eslint-plugin-nebulas-contract": ">=0.0.14"
+    "eslint-plugin-nebulas-contract": ">=0.0.15"
   }
 }
