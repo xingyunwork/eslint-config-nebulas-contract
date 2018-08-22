@@ -26,7 +26,7 @@ module.exports = {
   },
 
   "extends": ["plugin:nebulas-contract/recommended"],
-  "plugins": ["nebulas-contract"],
+  "plugins": ["eslint:recommended", "nebulas-contract"],
   "rules": {
 
   }
