@@ -27,7 +27,7 @@ Once the `eslint-config-nebulas-contract` package is installed, you can use it b
 
 There are several rules in the [`eslint:recommended` ruleset](http://eslint.org/docs/rules/) that Google style is not opinionated about that you might want to enforce in your project.
 
-To use Google style in conjunction with ESLint's recommended rule set, extend them both, making sure to list `google` last:
+To use Nebulas Contract style in conjunction with ESLint's recommended rule set, extend them both, making sure to list `nebulas-contract` last:
 
 ```js
 {
