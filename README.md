@@ -25,7 +25,7 @@ Once the `eslint-config-nebulas-contract` package is installed, you can use it b
 
 ### Using the `nebulas-contract` config with `eslint:recommended`
 
-There are several rules in the [`eslint:recommended` ruleset](http://eslint.org/docs/rules/) that Google style is not opinionated about that you might want to enforce in your project.
+There are several rules in the [`eslint:recommended` ruleset](http://eslint.org/docs/rules/). 
 
 To use Nebulas Contract style in conjunction with ESLint's recommended rule set, extend them both, making sure to list `nebulas-contract` last:
 
